@@ -43,11 +43,11 @@ Registration for the tutorials is required ([here](https://docs.google.com/forms
 
 ### Registration
 
-Attendance of the workshop is free but limited, and registration is required. Seats will be allocated on first-come-first-served basis. Accepted abstracts for poster submission will be guaranteed a seat. [Apply now](https://docs.google.com/forms/d/e/1FAIpQLSeC3dFpjzQPS7AR9p4XXarfZcDKFhehSq-WB7JKbEXAWsaNKA/viewform?c=0&amp;w=1&amp;usp=mail_form_link).
+Attendance of the workshop is free but limited, and registration is required. Seats will be allocated on first-come-first-served basis. Accepted abstracts for poster submission will be guaranteed a seat.  **[Apply now](https://docs.google.com/forms/d/e/1FAIpQLSeC3dFpjzQPS7AR9p4XXarfZcDKFhehSq-WB7JKbEXAWsaNKA/viewform?c=0&amp;w=1&amp;usp=mail_form_link)**.
 
 ### Poster submission
 
-Poster submissions are highly encouraged. Please submit your abstracts before April 20, 2018  [here](). You will be informed about your registration at the end of April.
+Poster submissions are highly encouraged. Please submit your abstracts before April 20, 2018  [here](https://docs.google.com/forms/d/e/1FAIpQLSeC3dFpjzQPS7AR9p4XXarfZcDKFhehSq-WB7JKbEXAWsaNKA/viewform?c=0&amp;w=1&amp;usp=mail_form_link)). You will be informed about your registration at the end of April.
 
 Due to the limited time and a schedule that promotes exchanges of advanced research ideas, talks are by invitation only. However, the organizers will try to allocate one or two shorter talk slots for selected submitted abstracts.
 
