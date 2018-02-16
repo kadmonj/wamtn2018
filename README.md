@@ -1,5 +1,3 @@
-### 3^rd^  workshop on advanced methods in theoretical neuroscience
-
 # Dynamics of learning and computations in neuronal circuits
 
 #### **June 27-29, 2018 • Göttingen, Germany (Tutorials: June 26, 2018)**
