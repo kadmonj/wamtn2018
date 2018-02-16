@@ -53,7 +53,7 @@ Due to the limited time and a schedule that promotes exchanges of advanced resea
 
 ### Venue
 
-Max Planck Institute for Dynamics and Self-Organization, Göttingen, Germany. You may look at MPI-DS [website]() for a complete address and a travel guide.
+Max Planck Institute for Dynamics and Self-Organization, Göttingen, Germany. You may look at MPI-DS [website](http://www.ds.mpg.de/2340/contact) for a complete address and a travel guide.
 
 
 
