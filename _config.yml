@@ -1,2 +1,4 @@
 title: "Third workshop on advanced methods in theoretical neuroscience"
 theme: jekyll-theme-tactile
+github:
+  is_project_page: false
