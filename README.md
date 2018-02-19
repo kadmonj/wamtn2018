@@ -65,10 +65,9 @@ Max Planck Institute for Dynamics and Self-Organization, Göttingen, Germany. Yo
 
 #### Organizers 
 
-*   Rainer J. Engelken (Columbia University, USA) [[email](mailto:farzad@bccn-berlin.de)]
-*   Farzad Farkhooi (Technische Universität Berlin, Germany)  [[email](mailto:re2365@columbia.edu)]
+*   Rainer J. Engelken (Columbia University, USA)  [[email](mailto:re2365@columbia.edu)]   
+*   Farzad Farkhooi (Technische Universität Berlin, Germany)  [[email](mailto:farzad@bccn-berlin.de)]
 *   Jonathan Kadmon (Stanford University, USA) [[email](mailto:kadmonj@stanford.edu)]
-*   Fred Wolf (MPI for Dynamics and Self-Organization, Germany)
 
 Organization:
 
