@@ -33,10 +33,7 @@ In addition, some of the speakers in the [2015]() and [2016]() workshops have co
 
 *   Yonatan Aljadeff (University of Chicago, USA)
 *   Andrea Crisanti (Università di Roma, La Sapienza, Italy)
-*   Gianluigi Mongillo (Paris Descartes University and CNRS,  France)*
 *   Viola Priesemann (MPI for Dynamics and Self-Organization, Germany)
-*   Alfonso Renart  (Champalimaud Centre for the Unknown,  Portugal)*
-*   Wilhelm Stannat (TU Berlin and BCCN Berlin)*
 *   Carl van Vreeswijk (Paris Descartes University and CNRS, France)
 
 
