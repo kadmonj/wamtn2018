@@ -16,6 +16,7 @@ We seek active discussions among participants and speakers, the exchange of new 
 *   Andrea K. Barreiro (Southern Methodist University, USA)
 *   Barbara Barvi (EPFL, Switzerland)
 *   Yoram Burak (Hebrew University, Israel)
+*   Ran Darshan (Janelia Research Campus, USA)
 *   Sophie Denève (Ecole Normale Supérieure de Paris, France)
 *   Surya Ganguli ( Stanford University, USA)
 *   Robert Guetig (MPI for Experimental Medicine, Germany)
