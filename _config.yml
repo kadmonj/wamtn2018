@@ -1,5 +1,6 @@
 title: "Third workshop on advanced methods in theoretical neuroscience"
 theme: jekyll-theme-slate
 github:
-  is_project_page: false
+  is_project_page: true
+  github.repository_url: ""
   
