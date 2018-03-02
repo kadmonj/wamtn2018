@@ -61,7 +61,7 @@ Max Planck Institute for Dynamics and Self-Organization, Göttingen, Germany. Yo
 
 
 
-#### Organizers 
+### Organizers 
 
 *   Rainer J. Engelken (Columbia University, USA)  [re2365 -at- columbia.edu]
 *   Farzad Farkhooi (Technische Universität Berlin, Germany) [farzad -at- bccn-berlin.de]
@@ -73,3 +73,9 @@ Organization:
 *   Viktoria Novak (MPI for Dynamics and Self-Organization)
 
     ​
+
+    This workshop was supported by the Max Planck Institute for Dynamics and Self-Organization (MPI-DS) and Deutsche Forschungsgemeinschaft (DFG) under Grant No. FA1316/2-1.
+
+    ![MPI](https://upload.wikimedia.org/wikipedia/en/thumb/c/c9/Max-Planck-Gesellschaft.svg/338px-Max-Planck-Gesellschaft.svg.png)
+
+    ![DFG](<https://www.research-in-germany.org/.imaging/mte/daad-theme/small/dam/images/Logos-Extern-Organ.--Companies--Portale-etc./DFG_logo.png/jcr:content/DFG_logo.png>)
