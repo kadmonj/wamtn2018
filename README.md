@@ -74,7 +74,7 @@ Organization:
 
     ​
 
-    This workshop was supported by the Max Planck Institute for Dynamics and Self-Organization (MPI-DS) and Deutsche Forschungsgemeinschaft (DFG) under Grant No. FA1316/2-1.
+    This workshop is supported by the Max Planck Institute for Dynamics and Self-Organization (MPI-DS) and Deutsche Forschungsgemeinschaft (DFG) under Grant No. FA1316/2-1.
 
     ![MPI](https://upload.wikimedia.org/wikipedia/en/thumb/c/c9/Max-Planck-Gesellschaft.svg/338px-Max-Planck-Gesellschaft.svg.png)
 
