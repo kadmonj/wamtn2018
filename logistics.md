@@ -1,6 +1,6 @@
-# Logistics
+# Getting to and around Göttingen
 
-## Hotels near the venue
+### Hotels near the venue
 
 The speakers and invited guest will be hosted in the InterCity hotel ([website](www.intercityhotel.com))
 
@@ -14,7 +14,7 @@ Maschmühlenweg 19-21, 37073 Göttingen ([website](www.hotelbb.de/de/goettingen-
 **Hotel Eden**
 Reinhäuser Landstraße 22A, 37083 Göttingen ([website](www.eden-hotel.de))
 
-## Transportation
+### Transportation
 Göttingen is located in central Germany and provides airports in surrounding cities with direct train connections to Göttingen, as well serviced fast track train station and a connection to the major highway A7. You can find car rental stations at the airports and train stations.
 
 - [Airport Hanover HAJ](http://www.hannover-airport.de/fluggaeste-besucher)

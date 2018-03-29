@@ -59,6 +59,9 @@ Due to the limited time and a schedule that promotes exchanges of advanced resea
 
 Max Planck Institute for Dynamics and Self-Organization, Göttingen, Germany. You may look at MPI-DS [website](http://www.ds.mpg.de/2340/contact) for a complete address and a travel guide.
 
+### Transportation and Hotels
+For a list of hotels near by, and transportation to and from Göttingen, please visit [here](http://www.wamtn.info/logistics.html).
+
 
 
 ### Organizers 
