@@ -6,5 +6,5 @@ There will be three tutorial given, each of approximately 2.5 hours. Each tutori
 
 ## Tentative program
 - Chaos in a network of excitatory and inhibitory balance (Farzad Farkhooi)
-- Quantifying chaos in neural circuits (Rainer Engel)
+- Quantifying chaos in neural circuits (Rainer Engelken)
 - Statistical mechanics of learning (Jonathan Kadmon)
