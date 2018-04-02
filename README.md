@@ -41,9 +41,11 @@ In addition, some of the speakers in the [2015]() and [2016]() workshops have co
 
 ### Tutorials
 
-The tutorials will be held prior to the main meeting on June 26, 2018 run from 9am till 5pm to introduce students and postdocs into the mathematical techniques employed in computational neuroscience. Topics will include: mean-field approaches for firing rate and integrate and fire networks, evaluation of different dynamical regimes using Lyapunov exponents-like techniques, Markov processes and more. Each tutorial will be held by an experienced researcher in the field.[ ]()
+The tutorials will be held prior to the main meeting on June 26, 2018 run from 9am till 5pm to introduce students and postdocs into the mathematical techniques employed in computational neuroscience. 
 
-Registration for the tutorials is required ([here](https://docs.google.com/forms/d/e/1FAIpQLSeC3dFpjzQPS7AR9p4XXarfZcDKFhehSq-WB7JKbEXAWsaNKA/viewform?c=0&amp;w=1&amp;usp=mail_form_link)) due to limited numbers of seats.
+Registration for the tutorials is free but required due to limited capacity. Please register [here](https://docs.google.com/forms/d/e/1FAIpQLSeC3dFpjzQPS7AR9p4XXarfZcDKFhehSq-WB7JKbEXAWsaNKA/viewform?c=0&amp;w=1&amp;usp=mail_form_link).
+
+Tentative program for the tutorials can be found [here](http://www.wamtn.info/tutorials.html)
 
 ### Registration
 
