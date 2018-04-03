@@ -8,7 +8,7 @@ Understanding information processing in the brain requires powerful mathematical
 
 This workshop will focus on the inherent difficulties of studying the spatiotemporal neural circuit dynamics. Of particular interest are studies that apply new or modified theoretical frameworks for studying disordered systems that yield testable predictions. This forum is intended for researchers to not only share results but also survey and discuss recent advances in methods and to pinpoint limitations of the existing theoretical tools.
 
-We seek active discussions among participants and speakers, the exchange of new approaches and methods, and presentations that will spark new ideas for future developments. These exchanges will be complemented by poster presentations from students and postdocs. Aday of tutorial sessions will be held prior to the main meeting, covering some of the background and methods discussed in the workshop.
+We seek active discussions among participants and speakers, the exchange of new approaches and methods, and presentations that will spark new ideas for future developments. These exchanges will be complemented by poster presentations from students and postdocs. A day of tutorial sessions will be held prior to the main meeting, covering some of the background and methods discussed in the workshop.
 
 ### Confirmed speakers
 
