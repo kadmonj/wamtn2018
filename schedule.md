@@ -8,7 +8,7 @@
 10:30-11:00  _Break_  
 11:00-12:30  Quantifying chaos in neural circuits [Rainer]  
 12:30-14:00  _Lunch break_  
-14:00-15:30  Statistical physics of learning in perceptron-based network [Jonathan]  
+14:00-15:30  Statistical physics of learning in perceptron-based networks [Jonathan]  
 
 ### Wednesday, June 27
 09:00-09:15  Opening remarks  
