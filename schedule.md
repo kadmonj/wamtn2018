@@ -7,7 +7,7 @@
 09:15-10:30  Dynamics in networks with excitatory and inhibitory balance [Farzad]  
 10:30-11:00  _Break_  
 11:00-12:30  Quantifying chaos in neural circuits [Rainer]  
-12:30-14:00  _Lunch break_
+12:30-14:00  _Lunch break_  
 14:00-15:30  Statistical physics of learning in perceptron-based network [Jonathan]  
 
 ### Wednesday, June 27
@@ -39,6 +39,13 @@
 20:00 Happy hour  
 
 ### Friday, June 29
+09:00-10:00 **Sophie Deneve** -- TBA  
+10:00-11:00 **Yoram Burak** -- Continuous parameter working memory in stochastic and chaotic neural networks  
+11:00-11:30 _Break_  
+11:30-12:00 _Contributed talk_  
+12:00-13:00 **Fred Wolf** - TBA  
+13:00-14:00 _Lunch Break_  
+14:00 Back to town  
 
 
 

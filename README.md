@@ -28,11 +28,11 @@ We seek active discussions among participants and speakers, the exchange of new 
 *   Lenka Zdeborova (Institut de Physique Theorique, France)
 *   Friedemann Zenke (Oxford University, UK)
 
+Tentative schedule can be found [here](http://www.wamtn.info/schedule.html).
+
 
 
 In addition, some of the speakers in the [2015]() and [2016]() workshops have confirmed their attendance:
-
-*   Yonatan Aljadeff (University of Chicago, USA)
 *   Andrea Crisanti (Università di Roma, La Sapienza, Italy)
 *   Viola Priesemann (MPI for Dynamics and Self-Organization, Germany)
 *   Carl van Vreeswijk (Paris Descartes University and CNRS, France)
