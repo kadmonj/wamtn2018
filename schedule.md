@@ -1,6 +1,4 @@
-# Dynamics of learning and computations in neuronal circuits
-
-## Schedule
+# Schedule
 
 ### Tuesday, June 26 [Tutorials]
 09:00-09:15  Greetings and opening remarks  
