@@ -75,7 +75,8 @@ For a list of hotels near by, and transportation to and from Göttingen, please 
 
 Organization:
 
-*   Viktoria Novak (MPI for Dynamics and Self-Organization)
+*   Simone Kleinhans
+*   Yvonne Reimann
 
     ​
 
