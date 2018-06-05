@@ -29,7 +29,7 @@
 11:30-12:30 **Ran Darshan** -- How strong are correlations in strongly recurrent neuronal networks?  
 12:30-13:45 _Lunch break_  
 13:45-14:45 **Gabriel Kreiman** -- A tale of two pathways: bottom-up and top-down processing in cortex  
-14:45-15:45 **Lenka Zdeborova** -- Statistical physics of learning a rule: An old story continued  
+14:45-15:45 TBD
 15:45-16:15 _Break_  
 16:15-17:15 **Omri Barak** -- Towards a theory of trained recurrent neural networks  
 17:30-20:00 Transit to city and _Gauss tour_  
