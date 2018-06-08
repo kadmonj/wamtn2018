@@ -19,13 +19,13 @@ We seek active discussions among participants and speakers, the exchange of new 
 *   Ran Darshan (Janelia Research Campus, USA)
 *   Sophie Denève (Ecole Normale Supérieure de Paris, France)
 *   Surya Ganguli ( Stanford University, USA)
+*   Claudius Gros (Goethe University, Germany)
 *   Robert Guetig (MPI for Experimental Medicine, Germany)
 *   Gabriel Kreiman (Harvard University, USA)
 *   Tatyana Sharpee (Salk Institute for Biological Studies, USA)
 *   David Schwab (City University of New York, USA)
 *   Misha Tsodyks (Weizmann Institute of Science, Israel)
 *   Fred Wolf  (MPI for Dynamics and Self-Organization, Germany)
-*   Lenka Zdeborova (Institut de Physique Theorique, France)
 *   Friedemann Zenke (Oxford University, UK)
 
 Tentative schedule can be found [here](http://www.wamtn.info/schedule.html).

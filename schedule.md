@@ -29,7 +29,7 @@
 11:30-12:30 **Ran Darshan** -- How strong are correlations in strongly recurrent neuronal networks?  
 12:30-13:45 _Lunch break_  
 13:45-14:45 **Gabriel Kreiman** -- A tale of two pathways: bottom-up and top-down processing in cortex  
-14:45-15:45 TBD
+14:45-15:45 **Claudius Gros** -- Testing for strong and partially predictable chaos in spiking and rate encoding neural networks  
 15:45-16:15 _Break_  
 16:15-17:15 **Omri Barak** -- Towards a theory of trained recurrent neural networks  
 17:30-20:00 Transit to city and _Gauss tour_  
@@ -37,7 +37,7 @@
 20:00 Happy hour  
 
 ### Friday, June 29
-09:00-10:00 **Sophie Deneve** -- TBA  
+09:00-10:00 **Sophie Deneve** -- Efficient Balanced Networks   
 10:00-11:00 **Yoram Burak** -- Continuous parameter working memory in stochastic and chaotic neural networks  
 11:00-11:30 _Break_  
 11:30-12:00 _Contributed talk_  
