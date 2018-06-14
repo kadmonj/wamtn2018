@@ -1,5 +1,5 @@
 # Poster presentations
-Poster session will be heald during the evening of Wednesday, June 28. Poster boards  can accommodate A0 size (841 x 1189 mm).
+Poster session will be heald during the evening of Wednesday, June 28. Poster boards  can accommodate A0 size (841 x 1189 mm) in portrait mode.
 
 
 # Getting to and around Göttingen
