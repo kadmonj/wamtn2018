@@ -84,4 +84,4 @@ Organization:
 
     ![MPI](https://upload.wikimedia.org/wikipedia/en/thumb/c/c9/Max-Planck-Gesellschaft.svg/338px-Max-Planck-Gesellschaft.svg.png)
 
-    ![DFG](<https://www.research-in-germany.org/.imaging/mte/daad-theme/small/dam/images/Logos-Extern-Organ.--Companies--Portale-etc./DFG_logo.png/jcr:content/DFG_logo.png>)
+    ![DFG](http://www.dfg.de/includes/images/layout/dfg_logo_schriftzug.svg)
