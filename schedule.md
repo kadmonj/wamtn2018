@@ -47,4 +47,18 @@
 
 
 
+---------
 
+## Poster session — June 27
+
+|      | Name                     | Affiliation                                                  | Title                                                        |
+| ---- | ------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| 1    | Johannes   Zierenberg    | Max   Planck Institute for Dynamics and Self-Organization    | Diversity   of Dynamic States in Neural Networks induced by Homeostatic Plasticity |
+| 2    | Pau   Vilimelis Aceituno | Max   Planck Institute for Mathematics in the Sciences       | The   structure of complex neural networks and its effects on computations |
+| 3    | Dong   Li                | Universitätsklinikum   Hamburg-Eppendorf, Hamburg, Germany   | Will   send later                                            |
+| 4    | Bineet   Kumar Gupta     | Shri   Ramswaroop Memorial University                        | InfoSec   Sense Problem: A Big Data for Neuroinformation     |
+| 5    | Fatemeh   Yavari         | Leibniz   Institute for Labor Research at the TU Dortmund Leibniz Research Center for   Working Environment and Human Factors Ardeystraße 67 | To   find the optimal tDCS montage in an individualized manner |
+| 6    | Natalie   Schieferstein  | Humboldt-Universität   zu Berlin                             | Modeling   hippocampal ripple oscillations across scales: limitations of recurrent   interneuron network models at the mesoscopic level |
+| 7    | Emma   Roscow            | University   of Bristol, Bristol, UK                         | Biasing   hippocampal replay for reinforcement learning      |
+| 8    | Sepehr   Mahmoudian      | Goettingen                                                   | Partial   Information as a window to understanding information processing in the brain |
+| 9    | Dimitris   Pinotsis      | University   of London-City and MIT                          | New   models for Computational Psychiatry                    |
