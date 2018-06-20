@@ -41,7 +41,7 @@
 10:00-11:00 **Yoram Burak** -- Continuous parameter working memory in stochastic and chaotic neural networks  
 11:00-11:30 _Break_  
 11:30-12:00 _Contributed talk_  
-12:00-13:00 **Fred Wolf** - TBA  
+12:00-13:00 **Fred Wolf** - State manifolds for the plasticity of recurrent neural circuits in the visual cortex  
 13:00-14:00 _Lunch Break_  
 14:00 Back to town  
 
