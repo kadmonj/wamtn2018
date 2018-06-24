@@ -19,7 +19,7 @@
 15:00-15:30 _Contributed talk_  
 15:30-16:00 _Break_  
 16:00-17:00 **Andrea K. Barreiro** -- Constraining neural networks with spiking statistics  
-17:00-18:00 **David Schwab** -- TBA  
+17:00-18:00 **David Schwab** -- Renormalizing Data  
 18:00-22:00 Poster Session + dinner and drinks  
 
 ### Thursday, June 28
