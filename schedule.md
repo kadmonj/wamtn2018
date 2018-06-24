@@ -13,7 +13,7 @@
 09:15-10:15  **Robert Guetig** -- Margin learning in spiking neurons  
 10:15-11:15  **Barbara Bravi** -- Inference of hidden stochastic trajectories in large networks  
 11:15-11:45 _Break_  
-11:45-12:45 **Tatyana O. Sharpee** --  Statistical approach for mapping the space of natural odor  
+11:45-12:45 **Ran Darshan** -- How strong are correlations in strongly recurrent neuronal networks?  
 12:45-14:00 _Lunch break_  
 14:00-15:00 **Surya Ganguli** -- TBA  
 15:00-15:30 _Contributed talk_  
@@ -26,7 +26,7 @@
 09:00-10:00 **Micha Tsodyks** -- Retrospective Bayesian Inference in Working Memory  
 10:00-11:00 **Friedemann Zenke** -- Beyond random networks: Training spiking neural networks with surrogate gradients  
 11:00-11:30 _Break_  
-11:30-12:30 **Ran Darshan** -- How strong are correlations in strongly recurrent neuronal networks?  
+11:30-12:30 **Tatyana O. Sharpee** --  Statistical approach for mapping the space of natural odor  
 12:30-13:45 _Lunch break_  
 13:45-14:45 **Gabriel Kreiman** -- A tale of two pathways: bottom-up and top-down processing in cortex  
 14:45-15:45 **Claudius Gros** -- Testing for strong and partially predictable chaos in spiking and rate encoding neural networks  
