@@ -7,4 +7,4 @@ There will be three tutorial given, each of approximately 2.5 hours. Each tutori
 ## Tentative program
 - Dynamics in networks with excitatory and inhibitory balance (Farzad Farkhooi)
 - Quantifying chaos in neural circuits (Rainer Engelken)
-- Statistical physics of learning in perceptron-based networks (Jonathan Kadmon)
+- The dynamical phase space of large recurrent neural networks (Jonathan Kadmon)
