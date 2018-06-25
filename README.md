@@ -10,6 +10,9 @@ This workshop will focus on the inherent difficulties of studying the spatiotemp
 
 We seek active discussions among participants and speakers, the exchange of new approaches and methods, and presentations that will spark new ideas for future developments. These exchanges will be complemented by poster presentations from students and postdocs. Aday of tutorial sessions will be held prior to the main meeting, covering some of the background and methods discussed in the workshop.
 
+### Location
+Please see address of the venue and ways to get there [here](http://www.wamtn.info/logistics.html).
+
 ### Confirmed speakers
 
 *   Omri Barak (Technion University, Israel)
