@@ -87,3 +87,68 @@
 | 32 | Mohammad Bashiri           | Technical University of Munich, Munich, Germany                                                                                          | The Effect of Non-invasive Deep Brain Stimulation Using Temporal Interference: A Computational Study                                |
 | 33 | Nimrod Shaham              | The Hebrew university of Jerusalem, Israel                                                                                               | Neural network mechanism for fixational eye motion generation                                                                       |
 | 34 | Chen Beer                  | Technion                                                                                                                                 | Line attractor formation as a case of sequential learning                                                                           |
+
+## Gabriel Kreiman
+Children's Hospital, Harvard Medical School, Boston, USA
+## A tale of two pathways: bottom-up and top-down processing in cortex
+Sequential processing cascades are easier to comprehend and constitute a basic ingredient of many models in different biological domains, from biochemical pathways to neuroscience computations. Within the domain of visual recognition, bottom-up models have been quite successful in providing insights about the initial approximately 150 ms of processing in cortex. In this talk, we will discuss how we can extend this framework to include recurrent horizontal computations and top-down computations in visual processing. we will draw on examples from pattern completion, contextual processing and active sampling during visual search. Towards understanding cortical computations at the three “Marr” levels of analysis, we will discuss how we can combine behavioral observations, neurophysiological recordings and computational models to understand neural circuits that include both bottom-up and recurrent processing.
+
+## Friedemann Zenke
+University of Oxford
+## Beyond random networks: Training spiking neural networks with surrogate gradients
+Computation in the brain is in large part performed by spiking neural networks. But currently we do not understand how biological spiking neural circuits compute and how to instantiate such capabilities in artificial spiking network models. In my talk I will focus on training multi-layer and recurrent artificial spiking neural networks by minimizing cost functions. However, in the spiking setting standard gradient-based optimization methods fail because gradients vanish when propagated through a deterministic spiking threshold. To overcome this limitation, I will introduce the “SuperSpike trick” and use it to derive surrogate gradients. These approximate gradients can then be used to train spiking networks to perform nonlinear computations in the temporal domain. Further, I will demonstrate the effectiveness of this approach on benchmarks and discuss biologically plausible reductions of the algorithm. 
+
+
+
+## Barbara Bravi
+EPFL, Lausanne, Switzerland
+## Inference of hidden stochastic trajectories in large networks              
+We consider the problem of inferring the dynamics of unknown (i.e. hidden) nodes from a set of observed trajectories in large networks of interacting units, e.g. neurons. The expected inference error on the hidden trajectories can be found as the equal-time hidden-to-hidden covariance of the probability distribution conditioned on observations. We present an application to estimating this quantity of a novel dynamical mean field approximation, the extended Plefka expansion, which relies on a path integral description of the stochastic dynamics. As a paradigmatic model, we focus on the stochastic linear dynamics of continuous degrees of freedom interacting via random Gaussian couplings of generic symmetry. In this scenario, the predictions of the extended Plefka expansion become exact in the infinite network size limit, as we show by appealing to alternative approaches based on Random Matrix Theory and dynamical functionals. We study analytically the average prediction error in the space of key parameters of the system, namely the ratio between the numbers of observed and hidden nodes, the degree of symmetry of the interactions and the amplitudes of the hidden-to-hidden and hidden-to-observed couplings (relative to the decay constant of the internal hidden dynamics).
+
+
+## Omri Barak
+Technion
+## Towards a theory of trained recurrent neural networks
+tba.
+
+## Yoram Burak
+Racah Institute of Physics
+## Continuous parameter working memory in stochastic and chaotic neural networks
+tba.
+
+## Ran Darshan
+Janelia Research Institute, Ashburn VA, USA
+## How strong are correlations in strongly recurrent neuronal networks?
+tba.
+
+## Robert Gütig
+Charité - Universitätsmedizin Berlin
+## Margin learning in spiking neurons
+
+## Andrea K. Barreiro
+Southern Methodist University, Dallas, USA
+## Constraining neural networks with spiking statistics
+As experimental tools in neuroscience have advanced, measuring whole-brain dynamics with single-neuron resolution is becoming closer to reality.  However, a task that remains technically elusive is to measure the interactions within and across brain regions that govern such system-wide dynamics. We propose a method to derive constraints on hard-to-measure neural network attributes --- such as inter-region synaptic strengths --- using easy-to-measure spiking statistics.   The analysis that we perform here has two components: first, we propose a closure formula for multi-population firing rate models (mathematically, a coupled system of stochastic differential equations) which allows fast evaluation of equilibrium statistics. Second, fast evaluation allows us to rapidly survey a high-dimensional parameter space describing admissible networks, to find which part of parameter space is consistent with the experimental data.   As a test case, we studied interactions in the olfactory system.  We used two micro-electrode arrays to simultaneously record from olfactory bulb (OB) and anterior piriform cortex (PC) of anesthetized rats who were exposed to several odors.  We were able to make several predictions about the network, notably that inhibition within the afferent region (OB) and inhibition within PC were constrained to a narrow slice of possible values. While the analysis was performed on a simplified network model, the predictions were validated in a more realistic spiking model of the OB-PC pathway.
+
+## Misha Tsodyks
+Weizmann Institute of Science, Rehovot, Israel
+## Retrospective Bayesian Inference in Working Memory
+External stimuli evoke neuronal responses in the brain (encoding), which lead to our perception of the stimuli (decoding). Encoding progresses from lower-level representations of simpler, less invariant features to higher-level representations of more complex and invariant features. Less is known about decoding but many models assume, explicitly or implicitly, that decoding follows the same hierarchy. We tested this low-to-high-level decoding assumption by measuring absolute judgments of single orientations and relative/ordinal judgments between two orientations, the former being a less invariant, lower-level property than the latter. We found that absolute-judgment distributions failed to explain relative-judgment distribution or ordinal discrimination, contradicting many neural decoding models. Conversely, when ordinal judgment was used as a Bayesian prior, prominent and novel features of absolute judgments, including correlation between two absolute judgments in a trial and forward/backward aftereffects, were naturally explained. Unlike typical Bayesian models using past statistics to interpret future stimuli, our Bayesian prior results from decoded ordinal relationship, and retrospectively constrains memory traces of previous orientations, altering their later absolute decoding. We suggest that the brain might prioritize decoding of more useful, higher-level features, which are also more invariant and categorical and thus easier to specify and maintain in noisy working memory, that higher-level decoding constrains lower-level decoding, and that Bayesian prior can act both prospectively and retrospectively.
+
+
+
+## David Schwab
+CUNY Graduate Center
+## Renormalizing Data 
+I will give a physics perspective to deep learning, a popular set of techniques in machine learning where performance on tasks such as visual object recognition rivals human performance, based on the renormalization group (RG). RG is a framework from statistical physics for simplifying complex, interacting systems. I present work relating greedy training of so-called deep belief networks to variational real-space renormalization. This connection may help explain how deep networks automatically learn relevant features from data as well as for what types of data deep networks work best. I will then discuss work using quantum-inspired tensor networks for supervised learning. Tensor networks are efficient representations of high-dimensional tensors that have been very successful in modeling many-body physics systems. Methods for optimizing tensor networks can be adapted to learning problems, and we find good performance on classic datasets. I will speculate on when these methods can be expected to work, using a perspective from physics. Finally, I will propose an information bottleneck formulation of RG and test it on datasets from classic statistical physics models.
+
+## Tatyana O. Sharpee
+Salk Institute for Biological Studies
+## Statistical approach for mapping the space of natural odors
+tba.
+
+## Lenka Zdeborová
+CEA Saclay, France
+## Statistical physics of learning a rule: An old story continued
+tba.
+
