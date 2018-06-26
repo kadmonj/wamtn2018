@@ -16,7 +16,7 @@
 11:45-12:45 **Tatyana O. Sharpee** --  Statistical approach for mapping the space of natural odor  
 12:45-14:00 _Lunch break_  
 14:00-15:00 **Surya Ganguli** -- TBA  
-15:00-15:30 _Contributed talk_  
+15:00-15:30 **Pau   Vilimelis Aceituno** --   The   structure of complex neural networks and its effects on computations  
 15:30-16:00 _Break_  
 16:00-17:00 **Andrea K. Barreiro** -- Constraining neural networks with spiking statistics  
 17:00-18:00 **David Schwab** -- TBA  
@@ -40,7 +40,7 @@
 09:00-10:00 **Sophie Deneve** -- Efficient Balanced Networks   
 10:00-11:00 **Yoram Burak** -- Continuous parameter working memory in stochastic and chaotic neural networks  
 11:00-11:30 _Break_  
-11:30-12:00 _Contributed talk_  
+11:30-12:00 **Aseel Shomar** -- Synaptic Size Dynamics as a Mesoscopic Biophysical Process  
 12:00-13:00 **Fred Wolf** - State manifolds for the plasticity of recurrent neural circuits in the visual cortex  
 13:00-14:00 _Lunch Break_  
 14:00 Back to town  
