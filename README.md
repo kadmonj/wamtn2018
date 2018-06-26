@@ -2,6 +2,11 @@
 
 #### **June 27-29, 2018 • Göttingen, Germany • Tutorials: June 26**
 
+Please find most updated schedule [here](http://www.wamtn.info/schedule.html).
+
+
+
+### Abstract
 Understanding information processing in the brain requires powerful mathematical techniques capable of capturing the nonlinear and noisy dynamics observed across different temporal and spatial scales. At the level of local circuits, a mesoscopic computational theory for neuronal circuits typically entails two essential dynamical processes: (i) the dynamics of learning and synaptic organisation processes that follow the statistics of stimuli and tasks; and (ii) the dynamics of neuronal activity-patterns dynamics in response to a particular stimulus and internal states of the network. While these two critical processes typically operate on different timescales and have been studied separately, they are unarguably related. A common assertion is that simple and local plasticity rules may lead to complicated representations. Nonetheless, understanding the limits imposed by the computation phase, such as capacity or dynamic stability, can guide the study of relevant local rules in the learning phase.
 
 
