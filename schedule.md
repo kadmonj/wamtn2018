@@ -15,7 +15,7 @@
 11:15-11:45 _Break_  
 11:45-12:45 **Ran Darshan** -- How strong are correlations in strongly recurrent neuronal networks?  
 12:45-14:00 _Lunch break_  
-14:00-15:00 **Surya Ganguli** -- TBA  
+14:00-15:00 **Surya Ganguli** -- Recovering the invisible in neural circuits with latent manifolds, tensors and deep networks: theory and experiment    
 15:00-15:30 **Pau   Vilimelis Aceituno** --   The   structure of complex neural networks and its effects on computations  
 15:30-16:00 _Break_  
 16:00-17:00 **Andrea K. Barreiro** -- Constraining neural networks with spiking statistics  
