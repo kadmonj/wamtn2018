@@ -86,6 +86,7 @@
 | 31 | Mohammad Bashiri           | Technical University of Munich, Munich, Germany                                                                                          | The Effect of Non-invasive Deep Brain Stimulation Using Temporal Interference: A Computational Study                                |
 | 32 | Nimrod Shaham              | The Hebrew university of Jerusalem, Israel                                                                                               | Neural network mechanism for fixational eye motion generation                                                                       |
 | 33 | Chen Beer                  | Technion                                                                                                                                 | Line attractor formation as a case of sequential learning                                                                           |
+| 34 | Aref Pariz                  | Institute for Advanced Studies in Basic Sciences, Zanjan, Iran                                                                                                                                 | High frequency neurons determine effective connectivity in neuronal networks                                                                           |
 
 ## Gabriel Kreiman
 Children's Hospital, Harvard Medical School, Boston, USA
