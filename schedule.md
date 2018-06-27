@@ -34,7 +34,7 @@
 16:15-17:15 **Omri Barak** -- Towards a theory of trained recurrent neural networks  
 17:30-20:00 Transit to city and _Gauss tour_  
 20:00-21:20 Free time for dinner  
-20:00 Happy hour  
+21:30 Happy hour downtown  
 
 ### Friday, June 29
 09:00-10:00 **Sophie Deneve** -- Efficient Balanced Networks   
@@ -146,9 +146,3 @@ I will give a physics perspective to deep learning, a popular set of techniques 
 Salk Institute for Biological Studies
 ## Statistical approach for mapping the space of natural odors
 tba.
-
-## Lenka Zdeborová
-CEA Saclay, France
-## Statistical physics of learning a rule: An old story continued
-tba.
-
