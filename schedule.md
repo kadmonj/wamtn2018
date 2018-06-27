@@ -23,7 +23,7 @@
 18:00-22:00 Poster Session + dinner and drinks  
 
 ### Thursday, June 28
-09:00-10:00 **Micha Tsodyks** -- Retrospective Bayesian Inference in Working Memory  
+09:00-10:00 **Misha Tsodyks** -- Retrospective Bayesian Inference in Working Memory  
 10:00-11:00 **Friedemann Zenke** -- Beyond random networks: Training spiking neural networks with surrogate gradients  
 11:00-11:30 _Break_  
 11:30-12:30 **Tatyana O. Sharpee** --  Statistical approach for mapping the space of natural odor  
