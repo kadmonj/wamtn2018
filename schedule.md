@@ -37,7 +37,7 @@
 21:30 Happy hour downtown  
 
 ### Friday, June 29
-09:00-10:00 **Sophie Deneve** -- Efficient Balanced Networks   
+09:00-10:00 **Viola Priesemann** -- TBA     
 10:00-11:00 **Yoram Burak** -- Continuous parameter working memory in stochastic and chaotic neural networks  
 11:00-11:30 _Break_  
 11:30-12:00 **Aseel Shomar** -- Synaptic Size Dynamics as a Mesoscopic Biophysical Process  
